@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xomid
 - 👀 I love pixels!
 - 🌱 I’m currently learning AI
-- 📫 You can reach me on twitter @OAkhlaghi
+- 📫 You can reach me on X @OAkhlaghi
 
 <!---
 xomid/xomid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
